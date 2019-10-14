@@ -1,4 +1,4 @@
 def lalo(n):
-	m=n+1
+	m=n+2
 	print(m)
 lalo(8)
